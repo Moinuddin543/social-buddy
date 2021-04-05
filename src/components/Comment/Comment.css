@@ -1,0 +1,11 @@
+.comment{
+    border: 1px solid blue;
+    margin: 10px;
+    padding:10px;
+    border-radius:5px;    
+}
+
+.userName, .userComment{
+    margin-top: 10px;
+    padding-top: 10px;
+}
